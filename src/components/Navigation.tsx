@@ -231,25 +231,25 @@ function NavigationGroup({
 
 export const navigation: Array<NavGroup> = [
   {
-    title: 'Guides',
+    title: 'References',
     links: [
-      { title: 'Introduction', href: '/' },
-      { title: 'Quickstart', href: '/quickstart' },
-      { title: 'SDKs', href: '/sdks' },
-      { title: 'Authentication', href: '/authentication' },
-      { title: 'Pagination', href: '/pagination' },
-      { title: 'Errors', href: '/errors' },
-      { title: 'Webhooks', href: '/webhooks' },
+      { title: 'Overview', href: '/' },
+      { title: 'Incoterms 2020', href: '/Incoterms' },
+      { title: 'IMO Classes', href: '/IMO-Classes' },
+      { title: 'Glossary', href: '/authentication' },
+      { title: 'Liner Terms', href: '/pagination' },
+      { title: 'Reefer Cargo', href: '/errors' },
+      { title: 'TITLE', href: '/webhooks' },
     ],
   },
   {
-    title: 'Resources',
+    title: 'Dimensions',
     links: [
-      { title: 'Contacts', href: '/contacts' },
-      { title: 'Conversations', href: '/conversations' },
-      { title: 'Messages', href: '/messages' },
-      { title: 'Groups', href: '/groups' },
-      { title: 'Attachments', href: '/attachments' },
+      { title: 'Pallet Dimensions', href: '/contacts' },
+      { title: 'Container Dimensions', href: '/conversations' },
+      { title: 'ULD Container Types', href: '/messages' },
+      { title: 'TITLE', href: '/groups' },
+      { title: 'TITLE', href: '/attachments' },
     ],
   },
 ]

@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-import logoRuby from '@/app/sdks/test.jpg'
+import logoRuby from '@/images/test.jpg'
 
 const ImageTest = [
   {
